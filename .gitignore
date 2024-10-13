@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignore node_modules for React projects
+node_modules/
+
+# Ignore build directory for React
+build/
+
